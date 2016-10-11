@@ -1,0 +1,332 @@
+BCSymbolMap Version: 2.0
++[SystemServices sharedServices]
+___32+[SystemServices sharedServices]_block_invoke
+___copy_helper_block_
+___destroy_helper_block_
+-[SystemServices init]
+-[SystemServices systemsUptime]
+-[SystemServices deviceModel]
+-[SystemServices deviceName]
+-[SystemServices systemName]
+-[SystemServices systemsVersion]
+-[SystemServices systemDeviceTypeNotFormatted]
+-[SystemServices systemDeviceTypeFormatted]
+-[SystemServices screenWidth]
+-[SystemServices screenHeight]
+-[SystemServices screenBrightness]
+-[SystemServices multitaskingEnabled]
+-[SystemServices proximitySensorEnabled]
+-[SystemServices debuggerAttached]
+-[SystemServices pluggedIn]
+-[SystemServices jailbroken]
+-[SystemServices numberProcessors]
+-[SystemServices numberActiveProcessors]
+-[SystemServices processorSpeed]
+-[SystemServices processorBusSpeed]
+-[SystemServices accessoriesAttached]
+-[SystemServices headphonesAttached]
+-[SystemServices numberAttachedAccessories]
+-[SystemServices nameAttachedAccessories]
+-[SystemServices carrierName]
+-[SystemServices carrierCountry]
+-[SystemServices carrierMobileCountryCode]
+-[SystemServices carrierISOCountryCode]
+-[SystemServices carrierMobileNetworkCode]
+-[SystemServices carrierAllowsVOIP]
+-[SystemServices batteryLevel]
+-[SystemServices charging]
+-[SystemServices fullyCharged]
+-[SystemServices currentIPAddress]
+-[SystemServices currentMACAddress]
+-[SystemServices externalIPAddress]
+-[SystemServices cellIPAddress]
+-[SystemServices cellMACAddress]
+-[SystemServices cellNetmaskAddress]
+-[SystemServices cellBroadcastAddress]
+-[SystemServices wiFiIPAddress]
+-[SystemServices wiFiMACAddress]
+-[SystemServices wiFiNetmaskAddress]
+-[SystemServices wiFiBroadcastAddress]
+-[SystemServices wiFiRouterAddress]
+-[SystemServices connectedToWiFi]
+-[SystemServices connectedToCellNetwork]
+-[SystemServices processID]
+-[SystemServices processName]
+-[SystemServices processStatus]
+-[SystemServices parentPID]
+-[SystemServices processesInformation]
+-[SystemServices diskSpace]
+-[SystemServices freeDiskSpaceinRaw]
+-[SystemServices freeDiskSpaceinPercent]
+-[SystemServices usedDiskSpaceinRaw]
+-[SystemServices usedDiskSpaceinPercent]
+-[SystemServices longDiskSpace]
+-[SystemServices longFreeDiskSpace]
+-[SystemServices totalMemory]
+-[SystemServices freeMemoryinRaw]
+-[SystemServices freeMemoryinPercent]
+-[SystemServices usedMemoryinRaw]
+-[SystemServices usedMemoryinPercent]
+-[SystemServices activeMemoryinRaw]
+-[SystemServices activeMemoryinPercent]
+-[SystemServices inactiveMemoryinRaw]
+-[SystemServices inactiveMemoryinPercent]
+-[SystemServices wiredMemoryinRaw]
+-[SystemServices wiredMemoryinPercent]
+-[SystemServices purgableMemoryinRaw]
+-[SystemServices purgableMemoryinPercent]
+-[SystemServices deviceOrientation]
+-[SystemServices country]
+-[SystemServices language]
+-[SystemServices timeZoneSS]
+-[SystemServices currency]
+-[SystemServices applicationVersion]
+-[SystemServices clipboardContent]
+-[SystemServices uniqueID]
+-[SystemServices deviceSignature]
+-[SystemServices cfuuid]
+-[SystemServices cpuUsage]
+-[SystemServices allSystemInformation]
+-[SystemServices getAllSystemInformation]
+-[SystemServices parentPIDForProcess:]
+-[SystemServices .cxx_destruct]
+_sharedServices.sharedSystemServices
+_sharedServices.onceToken
+___block_descriptor_tmp
+_OBJC_IVAR_$_SystemServices.cfuuid
+_OBJC_IVAR_$_SystemServices.deviceSignature
+_OBJC_IVAR_$_SystemServices.uniqueID
+_OBJC_IVAR_$_SystemServices.clipboardContent
+_OBJC_IVAR_$_SystemServices.applicationVersion
+_OBJC_IVAR_$_SystemServices.currency
+_OBJC_IVAR_$_SystemServices.timeZoneSS
+_OBJC_IVAR_$_SystemServices.language
+_OBJC_IVAR_$_SystemServices.country
+_OBJC_IVAR_$_SystemServices.usedDiskSpaceinPercent
+_OBJC_IVAR_$_SystemServices.usedDiskSpaceinRaw
+_OBJC_IVAR_$_SystemServices.freeDiskSpaceinPercent
+_OBJC_IVAR_$_SystemServices.freeDiskSpaceinRaw
+_OBJC_IVAR_$_SystemServices.diskSpace
+_OBJC_IVAR_$_SystemServices.processesInformation
+_OBJC_IVAR_$_SystemServices.processName
+_OBJC_IVAR_$_SystemServices.wiFiRouterAddress
+_OBJC_IVAR_$_SystemServices.wiFiBroadcastAddress
+_OBJC_IVAR_$_SystemServices.wiFiNetmaskAddress
+_OBJC_IVAR_$_SystemServices.wiFiMACAddress
+_OBJC_IVAR_$_SystemServices.wiFiIPAddress
+_OBJC_IVAR_$_SystemServices.cellBroadcastAddress
+_OBJC_IVAR_$_SystemServices.cellNetmaskAddress
+_OBJC_IVAR_$_SystemServices.cellMACAddress
+_OBJC_IVAR_$_SystemServices.cellIPAddress
+_OBJC_IVAR_$_SystemServices.externalIPAddress
+_OBJC_IVAR_$_SystemServices.currentMACAddress
+_OBJC_IVAR_$_SystemServices.currentIPAddress
+_OBJC_IVAR_$_SystemServices.carrierMobileNetworkCode
+_OBJC_IVAR_$_SystemServices.carrierISOCountryCode
+_OBJC_IVAR_$_SystemServices.carrierMobileCountryCode
+_OBJC_IVAR_$_SystemServices.carrierCountry
+_OBJC_IVAR_$_SystemServices.carrierName
+_OBJC_IVAR_$_SystemServices.nameAttachedAccessories
+_OBJC_IVAR_$_SystemServices.systemDeviceTypeFormatted
+_OBJC_IVAR_$_SystemServices.systemDeviceTypeNotFormatted
+_OBJC_IVAR_$_SystemServices.systemsVersion
+_OBJC_IVAR_$_SystemServices.systemName
+_OBJC_IVAR_$_SystemServices.deviceName
+_OBJC_IVAR_$_SystemServices.deviceModel
+_OBJC_IVAR_$_SystemServices.systemsUptime
+_OBJC_IVAR_$_SystemServices.allSystemInformation
+_OBJC_IVAR_$_SystemServices.screenWidth
+_OBJC_IVAR_$_SystemServices.screenHeight
+_OBJC_IVAR_$_SystemServices.screenBrightness
+_OBJC_IVAR_$_SystemServices.multitaskingEnabled
+_OBJC_IVAR_$_SystemServices.proximitySensorEnabled
+_OBJC_IVAR_$_SystemServices.debuggerAttached
+_OBJC_IVAR_$_SystemServices.pluggedIn
+_OBJC_IVAR_$_SystemServices.jailbroken
+_OBJC_IVAR_$_SystemServices.numberProcessors
+_OBJC_IVAR_$_SystemServices.numberActiveProcessors
+_OBJC_IVAR_$_SystemServices.processorSpeed
+_OBJC_IVAR_$_SystemServices.processorBusSpeed
+_OBJC_IVAR_$_SystemServices.accessoriesAttached
+_OBJC_IVAR_$_SystemServices.headphonesAttached
+_OBJC_IVAR_$_SystemServices.numberAttachedAccessories
+_OBJC_IVAR_$_SystemServices.carrierAllowsVOIP
+_OBJC_IVAR_$_SystemServices.batteryLevel
+_OBJC_IVAR_$_SystemServices.charging
+_OBJC_IVAR_$_SystemServices.fullyCharged
+_OBJC_IVAR_$_SystemServices.connectedToWiFi
+_OBJC_IVAR_$_SystemServices.connectedToCellNetwork
+_OBJC_IVAR_$_SystemServices.processID
+_OBJC_IVAR_$_SystemServices.processStatus
+_OBJC_IVAR_$_SystemServices.parentPID
+_OBJC_IVAR_$_SystemServices.longDiskSpace
+_OBJC_IVAR_$_SystemServices.longFreeDiskSpace
+_OBJC_IVAR_$_SystemServices.totalMemory
+_OBJC_IVAR_$_SystemServices.freeMemoryinRaw
+_OBJC_IVAR_$_SystemServices.freeMemoryinPercent
+_OBJC_IVAR_$_SystemServices.usedMemoryinRaw
+_OBJC_IVAR_$_SystemServices.usedMemoryinPercent
+_OBJC_IVAR_$_SystemServices.activeMemoryinRaw
+_OBJC_IVAR_$_SystemServices.activeMemoryinPercent
+_OBJC_IVAR_$_SystemServices.inactiveMemoryinRaw
+_OBJC_IVAR_$_SystemServices.inactiveMemoryinPercent
+_OBJC_IVAR_$_SystemServices.wiredMemoryinRaw
+_OBJC_IVAR_$_SystemServices.wiredMemoryinPercent
+_OBJC_IVAR_$_SystemServices.purgableMemoryinRaw
+_OBJC_IVAR_$_SystemServices.purgableMemoryinPercent
+_OBJC_IVAR_$_SystemServices.deviceOrientation
+_OBJC_IVAR_$_SystemServices.cpuUsage
+Apple LLVM version 8.0.0 (clang-800.0.38)
+/Users/yxj/Desktop/MyPublicProject/iOS-System-Services/System Services/SystemServices.m
+/Users/yxj/Desktop/MyPublicProject/iOS-System-Services/SystemServicesDemo
+__destroy_helper_block_
+__copy_helper_block_
+__32+[SystemServices sharedServices]_block_invoke
+_dispatch_once
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk/usr/include/dispatch/once.h
++[SSAccelerometerInfo deviceOrientation]
+-[SSAccelerometerInfo startLoggingMotionData]
+___45-[SSAccelerometerInfo startLoggingMotionData]_block_invoke
+___45-[SSAccelerometerInfo startLoggingMotionData]_block_invoke.14
+___copy_helper_block_.17
+___destroy_helper_block_.18
+___45-[SSAccelerometerInfo startLoggingMotionData]_block_invoke.21
+___copy_helper_block_.24
+___destroy_helper_block_.25
+-[SSAccelerometerInfo stopLoggingMotionData]
+-[SSAccelerometerInfo processAccel:withError:]
+-[SSAccelerometerInfo processGyro:withError:]
+-[SSAccelerometerInfo processMotion:withError:]
+-[SSAccelerometerInfo attitudeString]
+-[SSAccelerometerInfo gravityString]
+-[SSAccelerometerInfo magneticFieldString]
+-[SSAccelerometerInfo rotationRateString]
+-[SSAccelerometerInfo userAccelerationString]
+-[SSAccelerometerInfo rawGyroscopeString]
+-[SSAccelerometerInfo rawAccelerometerString]
+-[SSAccelerometerInfo .cxx_destruct]
+___block_descriptor_tmp.20
+___block_descriptor_tmp.27
+_OBJC_IVAR_$_SSAccelerometerInfo.rawAccelerometerString
+_OBJC_IVAR_$_SSAccelerometerInfo.rawGyroscopeString
+_OBJC_IVAR_$_SSAccelerometerInfo.attitudeString
+_OBJC_IVAR_$_SSAccelerometerInfo.gravityString
+_OBJC_IVAR_$_SSAccelerometerInfo.magneticFieldString
+_OBJC_IVAR_$_SSAccelerometerInfo.rotationRateString
+_OBJC_IVAR_$_SSAccelerometerInfo.userAccelerationString
+/Users/yxj/Desktop/MyPublicProject/iOS-System-Services/System Services/Utilities/SSAccelerometerInfo.m
+/Users/yxj/Desktop/MyPublicProject/iOS-System-Services/System Services/Utilities/SSAccelerometerInfo.h
+__45-[SSAccelerometerInfo startLoggingMotionData]_block_invoke.21
+__45-[SSAccelerometerInfo startLoggingMotionData]_block_invoke.14
+__45-[SSAccelerometerInfo startLoggingMotionData]_block_invoke
++[SSAccessoryInfo accessoriesAttached]
++[SSAccessoryInfo headphonesAttached]
++[SSAccessoryInfo numberAttachedAccessories]
++[SSAccessoryInfo nameAttachedAccessories]
+/Users/yxj/Desktop/MyPublicProject/iOS-System-Services/System Services/Utilities/SSAccessoryInfo.m
++[SSApplicationInfo applicationVersion]
++[SSApplicationInfo clipboardContent]
++[SSApplicationInfo cpuUsage]
+/Users/yxj/Desktop/MyPublicProject/iOS-System-Services/System Services/Utilities/SSApplicationInfo.m
++[SSBatteryInfo batteryLevel]
++[SSBatteryInfo charging]
++[SSBatteryInfo fullyCharged]
+/Users/yxj/Desktop/MyPublicProject/iOS-System-Services/System Services/Utilities/SSBatteryInfo.m
++[SSCarrierInfo carrierName]
++[SSCarrierInfo carrierCountry]
++[SSCarrierInfo carrierMobileCountryCode]
++[SSCarrierInfo carrierISOCountryCode]
++[SSCarrierInfo carrierMobileNetworkCode]
++[SSCarrierInfo carrierAllowsVOIP]
+/Users/yxj/Desktop/MyPublicProject/iOS-System-Services/System Services/Utilities/SSCarrierInfo.m
++[SSDiskInfo diskSpace]
++[SSDiskInfo freeDiskSpace:]
++[SSDiskInfo usedDiskSpace:]
++[SSDiskInfo longDiskSpace]
++[SSDiskInfo longFreeDiskSpace]
++[SSDiskInfo formatMemory:]
++[SSDiskInfo formattedMemory:]
+/Users/yxj/Desktop/MyPublicProject/iOS-System-Services/System Services/Utilities/SSDiskInfo.m
++[SSHardwareInfo systemUptime]
++[SSHardwareInfo deviceModel]
++[SSHardwareInfo deviceName]
++[SSHardwareInfo systemName]
++[SSHardwareInfo systemVersion]
++[SSHardwareInfo systemDeviceTypeFormatted:]
++[SSHardwareInfo screenWidth]
++[SSHardwareInfo screenHeight]
++[SSHardwareInfo screenBrightness]
++[SSHardwareInfo multitaskingEnabled]
++[SSHardwareInfo proximitySensorEnabled]
++[SSHardwareInfo debuggerAttached]
++[SSHardwareInfo pluggedIn]
+/Users/yxj/Desktop/MyPublicProject/iOS-System-Services/System Services/Utilities/SSHardwareInfo.m
++[SSJailbreakCheck jailbroken]
++[SSJailbreakCheck urlCheck]
++[SSJailbreakCheck cydiaCheck]
++[SSJailbreakCheck inaccessibleFilesCheck]
++[SSJailbreakCheck plistCheck]
++[SSJailbreakCheck processesCheck]
++[SSJailbreakCheck fstabCheck]
++[SSJailbreakCheck systemCheck]
++[SSJailbreakCheck symbolicLinkCheck]
++[SSJailbreakCheck filesExistCheck]
++[SSJailbreakCheck runningProcesses]
+/Users/yxj/Desktop/MyPublicProject/iOS-System-Services/System Services/Utilities/SSJailbreakCheck.m
++[SSLocalizationInfo country]
++[SSLocalizationInfo language]
++[SSLocalizationInfo timeZone]
++[SSLocalizationInfo currency]
+/Users/yxj/Desktop/MyPublicProject/iOS-System-Services/System Services/Utilities/SSLocalizationInfo.m
++[SSMemoryInfo totalMemory]
++[SSMemoryInfo freeMemory:]
++[SSMemoryInfo usedMemory:]
++[SSMemoryInfo activeMemory:]
++[SSMemoryInfo inactiveMemory:]
++[SSMemoryInfo wiredMemory:]
++[SSMemoryInfo purgableMemory:]
+/Users/yxj/Desktop/MyPublicProject/iOS-System-Services/System Services/Utilities/SSMemoryInfo.m
+-[Route_Info initWithRtm:]
++[Route_Info getRoutes]
++[Route_Info getRoute:]
+-[Route_Info setAddr:index:]
+-[Route_Info getDestination]
+-[Route_Info getNetmask]
+-[Route_Info getGateway]
+-[Route_Info getAddrStringByIndex:]
++[SSNetworkInfo currentIPAddress]
++[SSNetworkInfo currentMACAddress]
++[SSNetworkInfo externalIPAddress]
++[SSNetworkInfo cellIPAddress]
++[SSNetworkInfo cellIPv6Address]
++[SSNetworkInfo cellMACAddress]
++[SSNetworkInfo cellNetmaskAddress]
++[SSNetworkInfo cellBroadcastAddress]
++[SSNetworkInfo wiFiIPAddress]
++[SSNetworkInfo wiFiIPv6Address]
++[SSNetworkInfo wiFiMACAddress]
++[SSNetworkInfo wiFiNetmaskAddress]
++[SSNetworkInfo wiFiBroadcastAddress]
++[SSNetworkInfo connectedToWiFi]
++[SSNetworkInfo connectedToCellNetwork]
++[SSNetworkInfo wiFiRouterAddress]
+/Users/yxj/Desktop/MyPublicProject/iOS-System-Services/System Services/Utilities/SSNetworkInfo.m
++[SSProcessInfo processID]
++[SSProcessInfo processName]
++[SSProcessInfo processStatus]
++[SSProcessInfo parentPID]
++[SSProcessInfo parentPIDForProcess:]
++[SSProcessInfo processesInformation]
+/Users/yxj/Desktop/MyPublicProject/iOS-System-Services/System Services/Utilities/SSProcessInfo.m
++[SSProcessorInfo numberProcessors]
++[SSProcessorInfo numberActiveProcessors]
++[SSProcessorInfo processorSpeed]
++[SSProcessorInfo processorBusSpeed]
+/Users/yxj/Desktop/MyPublicProject/iOS-System-Services/System Services/Utilities/SSProcessorInfo.m
++[SSUUID uniqueID]
++[SSUUID deviceSignature]
++[SSUUID cfuuid]
+/Users/yxj/Desktop/MyPublicProject/iOS-System-Services/System Services/Utilities/SSUUID.m
+NSMakeRange
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSRange.h
+/Users/yxj/Library/Developer/Xcode/DerivedData/SystemServicesDemo-foevrzsgumnkvydlfhwzuzufsmge/Build/Intermediates/SystemServicesDemo.build/Release-iphoneos/SystemServices_iOS.build/DerivedSources/SystemServices_iOS_vers.c
